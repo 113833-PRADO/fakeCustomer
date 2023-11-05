@@ -1,15 +1,17 @@
-"customer":{
-  "id_customer": 1,
-  "first_name": "Leonel",
-  "last_name": "Messi",
-  "company_name": "",
-  "iva_condition": "Responsable Inscripto",
-  "email": "messirve@gmail.com",
-  "phone_number": 1234567,
-  "address": "calle falsa 1234",
-  "document_number": 12345678,
-  "document_type": "DNI",
-  "customer_type": "Mayorista",
-  "discount_factor": 1.00,
-  "customer_category": "Oro"
+{
+  "customer":{
+    "id_customer": 1,
+    "first_name": "Leonel",
+    "last_name": "Messi",
+    "company_name": "",
+    "iva_condition": "Responsable Inscripto",
+    "email": "messirve@gmail.com",
+    "phone_number": 1234567,
+    "address": "calle falsa 1234",
+    "document_number": 12345678,
+    "document_type": "DNI",
+    "customer_type": "Mayorista",
+    "discount_factor": 1.00,
+    "customer_category": "Oro"
+  }
 }
