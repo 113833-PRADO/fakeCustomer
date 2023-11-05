@@ -1,4 +1,4 @@
-{
+[{
   "id_customer":1,
   "first_name":"Leonel",
   "last_name":"Messi",
@@ -12,4 +12,4 @@
   "customer_type":"Mayorista"
   "discount_factor":1.00
   "customer_category":"Oro"
-}
+}]
